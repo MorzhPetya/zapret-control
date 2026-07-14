@@ -1,11 +1,11 @@
 {
   "version": "v0.1.1",
-  "notes": "Первое обновление: улучшена стабильность автоподбора и исправлены баги трея.",
+  "notes": "Улучшена стабильность автоподбора, исправлены баги трея и не только. Графический интерфейс приложения был улучшен. Добавлена функция диагностики способов обхода по отдельности.",
   "pub_date": "2026-07-14T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "СЮДА_ВСТАВИТЕ_СОДЕРЖИМОЕ_ФАЙЛА_СИГНАТУРЫ_ИЗ_RELEASE_СБОРКИ",
-      "url": "https://github.com/ВАШ_ЛОГИН_GITHUB/ИМЯ_ВАШЕГО_РЕПОЗИТОРИЯ/releases/download/v0.1.1/Zapret-Control_0.1.1_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTjkzSkc4azZvRXZ6NkUwMURlbzRYUHQwQWpEMWF4ZVVSR21OcEMyOHVJangrZDM0Mll0M3F1Y05xamJzSWlGd3hmTmFLbjVaR1JPclR3bDE4QjJhN0hmNFFBRS9VYndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDU2MDI4CWZpbGU6WmFwcmV0IExpdGVfMC4xLjFfeDY0LXNldHVwLmV4ZQoveXN2aUR5SmRiTFFEeUtpM1JVRFozMWNvUG5pdVMrQWFMRlU3SUlZVnFCZVlCbzdQMjJ0STUzaFphM3F0QWRyMm1SZHJOOVBzdkZuZG0xT3pQQ1lBdz09Cg==",
+      "url": "https://github.com/MorzhPetya/zapret-control/releases/download/v0.1.1/Zapret.Lite_0.1.1_x64-setup.exe"
     }
   }
 }
