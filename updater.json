@@ -4,8 +4,8 @@
   "pub_date": "2026-07-14T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTjkzSkc4azZvRXZ6NkUwMURlbzRYUHQwQWpEMWF4ZVVSR21OcEMyOHVJangrZDM0Mll0M3F1Y05xamJzSWlGd3hmTmFLbjVaR1JPclR3bDE4QjJhN0hmNFFBRS9VYndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDU2MDI4CWZpbGU6WmFwcmV0IExpdGVfMC4xLjFfeDY0LXNldHVwLmV4ZQoveXN2aUR5SmRiTFFEeUtpM1JVRFozMWNvUG5pdVMrQWFMRlU3SUlZVnFCZVlCbzdQMjJ0STUzaFphM3F0QWRyMm1SZHJOOVBzdkZuZG0xT3pQQ1lBdz09Cg==",
-      "url": "https://github.com/MorzhPetya/zapret-control/releases/download/v0.1.1/Zapret.Lite_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTjkzSkc4azZvRW9OK0hYeitRWEJ6UzhiQkR4aDVxK2JyQXV4QmdhYU9Xei9HWHdxWXNiSzVqNWhyM08wcjQ1OElWdklkL0syaFBZRGFLa2hzemFkUlNZOVFSS3VVVVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDY1MTEyCWZpbGU6WmFwcmV0IExpdGVfMC4xLjJfeDY0LXNldHVwLmV4ZQpOQmFDWXl4bUFXeitQOUZOcVNsZENuVnlYTGhlQ1FRSDRaRGRraUVHelNDL0FTbnRHRURGUk5RU1J5bDRUTzBGN3FaSHgwZUhmck5wblNmOEMwcjBBUT09Cg==",
+      "url": "https://github.com/MorzhPetya/zapret-control/releases/download/v0.1.2/Zapret.Lite_0.1.2_x64-setup.exe"
     }
   }
 }
