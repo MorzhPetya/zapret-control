@@ -1,11 +1,11 @@
 {
-  "version": "v0.1.4",
-  "notes": "Глобальный ребрендинг, Игровая оптимизация, графические и системные фиксы.",
+  "version": "v0.1.5",
+  "notes": "Игровой патч, отдельный терминал логов и кнопка авто-исправления ошибок",
   "pub_date": "2026-07-20T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTjkzSkc4azZvRXNWeGxMUzhFb2Q3eTNubDhNekEyYndRMEYwWWtJTFc2VitQT1pieHJzb0JXdkU4cmF3T3p3cmxJQ2ZkbHRSNnREL1AvWlJDajdlaWNSOHlldFRBamdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTY1MzgxCWZpbGU6WmFwcmV0IExpdGVfMC4xLjRfeDY0LXNldHVwLmV4ZQpmckxLZklycWxsODVYMWlvZGx6eXRDMjdQN2x6czUrNG5VVktoRDFEWjIxWFc2WGpvR0kzWDNVSVFvMnZoU0cvWTBQbkh6Vytnc0tFZWUyL0NtTnJDUT09Cg==",
-      "url": "https://github.com/MorzhPetya/zapret-lite/releases/download/v0.1.4/Zapret.Lite_0.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTjkzSkc4azZvRWoxQUVIRGNjU0xXWmNUMFJJdUc1ODg5Q2dxNS9PamFCSSsxTTh1VU1wOE9nUEJ3bnZpNy9yTlkzY3Bsem95bFRTWENRODJnNTRTTGcwQ2RwMU5DamdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjMxMjI0CWZpbGU6WmFwcmV0IExpdGVfMC4xLjVfeDY0LXNldHVwLmV4ZQp1L2JaK3RLTUtJU2wzUUF1c3V3Zko2bFBWc2JJc2VoL1NaWllWcTNDeE00bFJhOWwyRjc3SlUyNW1ySHQ1dlMvQitvRGRlV0t5RDFXM0h4YWFXUkFEUT09Cg==",
+      "url": "https://github.com/MorzhPetya/zapret-control/releases/download/v0.1.5/Zapret.Lite_0.1.5_x64-setup.exe"
     }
   }
 }
